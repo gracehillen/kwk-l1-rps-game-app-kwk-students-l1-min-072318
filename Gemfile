@@ -5,11 +5,6 @@ gem 'rspec'
 gem 'shotgun'
 gem 'sinatra'
 gem 'pry'
-
-
-source 'http://rubygems.org'
-
-gem 'sinatra'
 gem 'rake'
 gem 'require_all'
 
